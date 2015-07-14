@@ -25,7 +25,6 @@ import java.util.*;
  * @since 1.0
  * @author Tomasz Jurczyk ({@code tomasz.jurczyk@emory.edu})
  */
-
 public class Instance implements Serializable
 {
     private static final long serialVersionUID = 17479620890779053L;
